@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=salmankhanpm&label=Profile%20views&color=0e75b6&style=flat" alt="salmankhanpm" /> </p>
 
-<p align="left"> [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)/a> </p>
-
 <p align="left"> <a href="https://twitter.com/salmankhanpm786" target="blank"><img src="https://img.shields.io/twitter/follow/salmankhanpm786?logo=twitter&style=for-the-badge" alt="salmankhanpm786" /></a> </p>
 
 - 🔭 I’m currently working on [Scripts](https://github.com/SALMANKHANPM/scripts.git)
