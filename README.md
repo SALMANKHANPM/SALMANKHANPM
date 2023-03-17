@@ -23,7 +23,7 @@
 
 - ⚡ Fun fact **I think I am lazy.**
 
-### Blogs posts
+<!-- ### Blogs posts -->
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
