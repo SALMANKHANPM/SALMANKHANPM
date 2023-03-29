@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/salmankhanpm786" target="blank"><img src="https://img.shields.io/twitter/follow/salmankhanpm786?logo=twitter&style=for-the-badge" alt="salmankhanpm786" /></a> </p>
 
-- 🔭 I’m currently working on [Scripts](https://github.com/SALMANKHANPM/scripts.git)
+- 🔭 I’m currently working on [Projects](https://github.com/SALMANKHANPM/Projects.git)
 
 - 🌱 I’m currently learning **C, Python, Web Development, Arduino**
 
