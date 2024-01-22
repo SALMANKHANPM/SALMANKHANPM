@@ -5,11 +5,6 @@
 
 <p align="left"> <a href="https://twitter.com/salmankhanpm786" target="blank"><img src="https://img.shields.io/twitter/follow/salmankhanpm786?logo=twitter&style=for-the-badge" alt="salmankhanpm786" /></a> </p>
 
-
-<a align="center" href="https://app.daily.dev/salmankhanpm">
-    <img src="https://api.daily.dev/devcards/e172fe85ce37479184245a84af28f921.png?r=r0h" width="400" alt="P.M.SALMAN KHAN's Dev Card"/>
-</a>
-
 - 🔭 I’m currently working on [Projects](https://github.com/SALMANKHANPM/Projects.git)
 
 - 🌱 I’m currently learning **C, Python, Web Development, Arduino**
